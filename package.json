@@ -5,7 +5,7 @@
   "author": "Ju Ho Nam <jhnamnam@gmail.com> (https://juhonamnam.github.io/)",
   "license": "MIT",
   "private": true,
-  "homepage": "http://localhost:3000/wedding-invitation",
+  "homepage": "https://sjhyung12.github.io/wedding-invitation/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
