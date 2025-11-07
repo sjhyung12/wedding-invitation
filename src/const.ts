@@ -42,49 +42,49 @@ export const BRIDE_FIRSTNAME = "다정"
 export const BRIDE_TITLE = "장녀"
 export const BRIDE_FATHER = "박광수"
 export const BRIDE_MOTHER = "강혜란"
-export const BRIDE_INFO = [
-  {
-    relation: "신부",
-    name: BRIDE_FULLNAME,
-    phone: "010-0000-0000",
-    account: "우리은행 0000000000000",
-  },
-  {
-    relation: "신부 아버지",
-    name: BRIDE_FATHER,
-    phone: "010-0000-0000",
-    account: "하나은행 00000000000",
-  },
-  {
-    relation: "신부 어머니",
-    name: BRIDE_MOTHER,
-    phone: "010-0000-0000",
-    account: "하나은행 00000000000000",
-  },
-]
+//export const BRIDE_INFO = [
+  //{
+    //relation: "신부",
+    //name: BRIDE_FULLNAME,
+    //phone: "010-0000-0000",
+    //account: "우리은행 0000000000000",
+  //},
+  //{
+    //relation: "신부 아버지",
+    //name: BRIDE_FATHER,
+    //phone: "010-0000-0000",
+    //account: "하나은행 00000000000",
+  //},
+  //{
+    //relation: "신부 어머니",
+    //name: BRIDE_MOTHER,
+    //phone: "010-0000-0000",
+    //account: "하나은행 00000000000000",
+  //},
+//]
 
 export const GROOM_FULLNAME = "설재형"
 export const GROOM_FIRSTNAME = "재형"
 export const GROOM_TITLE = "장남"
 export const GROOM_FATHER = "설한식"
 export const GROOM_MOTHER = "박은숙"
-export const GROOM_INFO = [
-  {
-    relation: "신랑",
-    name: GROOM_FULLNAME,
-    phone: "010-0000-0000",
-    account: "하나은행 00000000000000",
-  },
-  {
-    relation: "신랑 아버지",
-    name: GROOM_FATHER,
-    phone: "010-0000-0000",
-    account: "신한은행 000000000000",
-  },
-  {
-    relation: "신랑 어머니",
-    name: GROOM_MOTHER,
-    phone: "010-0000-0000",
-    account: "국민은행 000000000000",
-  },
-]
+//export const GROOM_INFO = [
+  //{
+    //relation: "신랑",
+    //name: GROOM_FULLNAME,
+    //phone: "010-0000-0000",
+    //account: "하나은행 00000000000000",
+  //},
+  //{
+    //relation: "신랑 아버지",
+    //name: GROOM_FATHER,
+    //phone: "010-0000-0000",
+    //account: "신한은행 000000000000",
+  //},
+  //{
+    //relation: "신랑 어머니",
+    //name: GROOM_MOTHER,
+    //phone: "010-0000-0000",
+    //account: "국민은행 000000000000",
+  //},
+//]
